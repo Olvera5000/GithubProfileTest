@@ -2,18 +2,13 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olvera5000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Olvera5000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olvera5000&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Olvera5000&no-bg=true&no-frame=true&row=1&column=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Olvera5000&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Olvera5000&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olvera5000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Olvera5000&no-frame=true&no-bg=true&row=1&column=4&margin-w=2&margin-h=1" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
 
 <img align="right" height="121" src="https://avatars.githubusercontent.com/u/63368543?s=400&u=4ff313439328bbbbabb5991362249cac216a27d3&v=4"  />
 
